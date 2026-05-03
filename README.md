@@ -1,2 +1,2 @@
-# Elbora
-this is an os
+# Eldora
+Eldora is a web OS. Users can open different apps like Notes, Files, Gallery, and To-Do in separate windows. Along with the core idea, it introduces useful features such as a live to-do list, image uploading gallery, app search, dynamic wallpaper changing, and a taskbar that tracks open apps with time and date display. Overall, the idea is to simulate a simple, interactive operating system using web technologies while keeping it clean, functional, and expandable for more advanced features in the future.
